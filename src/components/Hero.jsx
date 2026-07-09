@@ -18,21 +18,13 @@ export default function Hero({ personal }) {
     <header className="hero container">
       <div className="hero-top">
         <div className="hero-text">
-          <div className="hero-kicker">// systems architecture &amp; ai engineering</div>
+          <div className="hero-kicker">// machine learning scientist</div>
           <h1 className="hero-name">
             {name.split(' ').slice(0, -1).join(' ')}{' '}
             <span className="accent">{name.split(' ').slice(-1)}</span>
           </h1>
           <div className="hero-roles">{roles}</div>
         </div>
-        {!photoFailed && (
-          <img
-            className="hero-photo"
-            src="/images/my-image.png"
-            alt={name}
-            onError={() => setPhotoFailed(true)}
-          />
-        )}
       </div>
       {summary && <p className="hero-summary">{summary}</p>}
       <div className="hero-meta">

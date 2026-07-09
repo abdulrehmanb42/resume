@@ -2,8 +2,6 @@
 
 | Title | Type | Publisher / Platform | Date | Link | Short Description |
 |---|---|---|---|---|---|
-| Code Snippet: Store and Retrieve Python Objects on Amazon S3 | Article | LinkedIn | | https://www.linkedin.com/pulse/code-snippet-store-retrieve-python-objects-amazon-s3-badar-j3hhc | Practical guide to storing and retrieving Python objects using Amazon S3. |
-| Machine Learning Basics: Gradient Descent for Regression using Numpy | Article | LinkedIn | | https://www.linkedin.com/pulse/machine-learning-basics-gradient-descent-regression-using-badar-ccnxf | Walkthrough of implementing gradient descent for regression from scratch with Numpy. |
-| Challenges of Democracy in the Era of Big Data | Article | LinkedIn | | https://www.linkedin.com/pulse/challenges-democracy-era-big-data-noaman-faisal-bin-badar | Commentary on how big data and technology intersect with democratic institutions and processes. |
-
-<!-- Add more rows as needed. Add exact publish dates if you have them — helps establish a timeline of your writing. -->
+| Kan we strike Oil? (Yes) | Research Paper | Academic | | /papers/kan.pdf | Applied Komolgorov Arnold Networks (KANs) to stock trading, comparing performance against standard MLPs with a transformer fine-tuned for time series. |
+| You Only Look Again: Self-Supervised Foveation | Research Paper | Academic | | /papers/yola.pdf | Bolstered performance of a biologically inspired foveation-based CNN image classifier using self-supervision to recover original images from foveated versions. |
+| Joint Learning of Dark Image Enhancement and Optical Flow in the Event-Based Domain | Research Paper | Academic | | /papers/event_domain.pdf | Proposed a unified framework for joint low-light image enhancement and dense optical flow prediction using a Swin-T7 transformer backbone. |

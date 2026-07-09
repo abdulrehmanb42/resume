@@ -2,11 +2,11 @@
 
 | Field | Value |
 |---|---|
-| Full Name | Noaman Faisal Bin Badar |
-| Target Job Titles | Data Engineer, AI Developer, MLOps Engineer, Solutions Architect |
-| Phone | +1-825-333-9344 |
-| Email | noamanfaisal@gmail.com |
-| City / Province | Edmonton, Alberta |
-| Professional Summary (3-4 lines) | Senior Backend Developer and System Architect with 25+ years of experience designing, developing, and scaling enterprise software solutions. Specialized in Python backend development, distributed systems, cloud-native architectures, and REST APIs, with hands-on experience across AWS, Docker, Kubernetes, PostgreSQL, Redis, RabbitMQ, and modern DevOps practices. Expanding expertise in Artificial Intelligence and Machine Learning, with a strong focus on LLM-powered applications and intelligent automation. Passionate about building reliable, scalable systems that solve complex real-world problems and deliver measurable business value. |
-| Years of Experience | 25+ |
-| Work Authorization Status | Closed Work Permit with Milo Productions (MuslimKids.TV) |
+| Full Name | Muhammad Abdul Rehman Baig |
+| Target Job Titles | Machine Learning Scientist & Engineer, Software Developer |
+| Phone | +1 (780) 938-9546 |
+| Email | mabdulrehmanbaig42@gmail.com |
+| City / Province | Alberta, Canada |
+| Professional Summary (3-4 lines) | Machine Learning Scientist & Engineer with a degree in mathematics and a research interest in computational cognitive neuroscience and distributed systems. Experienced in developing scalable models and RAG pipelines for production, and leveraging advanced image processing and deep learning techniques. |
+| Years of Experience | 3 |
+| Work Authorization Status | Authorized to work in Canada |

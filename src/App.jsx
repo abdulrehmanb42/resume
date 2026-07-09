@@ -14,11 +14,10 @@ import './App.css';
 
 const SECTIONS = [
   { id: 'oss', label: 'Open Source' },
+  { id: 'articles', label: 'Research Papers' },
   { id: 'experience', label: 'Experience' },
-  { id: 'projects', label: 'Projects' },
   { id: 'skills', label: 'Skills' },
-  { id: 'background', label: 'Background' },
-  { id: 'articles', label: 'Writing' }
+  { id: 'background', label: 'Background' }
 ];
 
 export default function App() {
@@ -31,20 +30,17 @@ export default function App() {
         <div id="oss">
           <FeaturedOSS projects={data.projects} />
         </div>
+        <div id="articles">
+          <Articles articles={data.articles} />
+        </div>
         <div id="experience">
           <Experience experience={data.experience} />
-        </div>
-        <div id="projects">
-          <Projects projects={data.projects} />
         </div>
         <div id="skills">
           <Skills skills={data.skills} />
         </div>
         <div id="background">
           <EducationCerts education={data.education} certificates={data.certificates} />
-        </div>
-        <div id="articles">
-          <Articles articles={data.articles} />
         </div>
       </main>
       <Footer personal={data.personal} social={data.social} />
